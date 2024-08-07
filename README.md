@@ -1,47 +1,20 @@
-# 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
+# Previsão de Estoque com Machine Learning 🚀📊
+Oi pessoal! Bem-vindos ao meu projeto de previsão de estoque usando Machine Learning! 😄
 
-Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
+# O Que Foi Feito:
+- Coleta e Preparação de Dados: Criei um banco de dados e fiz algumas limpezas e transformações básicas para preparar os dados para o modelo.
+- Construção do Modelo: Utilizei técnicas de Machine Learning para criar um modelo preditivo.
+- Treinamento e Avaliação: O modelo foi treinado e avaliado, alcançando uma precisão de 84.444%! Isso significa que, em média, o modelo acerta 84,444% das previsões sobre o estoque.
+- Dados Utilizados: As principais variáveis usadas foram o histórico de vendas, a quantidade de estoque atual, e alguns indicadores temporais que ajudam a prever a demanda futura.
+- Qualidade dos Dados: Apesar de ser um banco de dados útil, a quantidade limitada de dados pode impactar a precisão do modelo. Mais dados poderiam melhorar a robustez e a acurácia das previsões.
 
-## 📋 Pré-requisitos
+  ![image](https://github.com/user-attachments/assets/ed64ab2a-a7c2-412d-b7bd-c19e4c679bc6)
 
-Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda para criar sua conta, confira nosso repositório [AWS Cloud Quickstart](https://github.com/digitalinnovationone/aws-cloud-quickstart).
+  ![image](https://github.com/user-attachments/assets/39547a6c-e92a-43b5-8d32-4f580b577c14)
 
+# O Que Poderia Melhorar
+- Mais Dados: Se o banco de dados tivesse mais de 250 linhas, a precisão do modelo poderia ser ainda melhor. Dados mais robustos geralmente resultam em modelos mais precisos.
+- Variedade de Dados: Adicionar mais variáveis e informações adicionais poderia enriquecer o modelo e proporcionar previsões mais precisas.
 
-## 🎯 Objetivos Deste Desafio de Projeto (Lab)
-
-![image](https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650)
-
-- Dê um fork neste projeto e reescreva este `README.md`. Sinta-se à vontade para detalhar todo o processo de criação do seu Modelo de ML para uma "Previsão de Estoque Inteligente".
-- Para isso, siga o [passo a passo] descrito a seguir e evolua as suas habilidades em ML no-code com o Amazon SageMaker Canvas.
-- Ao concluir, envie a URL do seu repositório com a solução na plataforma da DIO.
-
-
-## 🚀 Passo a Passo
-
-### 1. Selecionar Dataset
-
--   Navegue até a pasta `datasets` deste repositório. Esta pasta contém os datasets que você poderá escolher para treinar e testar seu modelo de ML. Sinta-se à vontade para gerar/enriquecer seus próprios datasets, quanto mais você se engajar, mais relevante esse projeto será em seu portfólio.
--   Escolha o dataset que você usará para treinar seu modelo de previsão de estoque.
--   Faça o upload do dataset no SageMaker Canvas.
-
-### 2. Construir/Treinar
-
--   No SageMaker Canvas, importe o dataset que você selecionou.
--   Configure as variáveis de entrada e saída de acordo com os dados.
--   Inicie o treinamento do modelo. Isso pode levar algum tempo, dependendo do tamanho do dataset.
-
-### 3. Analisar
-
--   Após o treinamento, examine as métricas de performance do modelo.
--   Verifique as principais características que influenciam as previsões.
--   Faça ajustes no modelo se necessário e re-treine até obter um desempenho satisfatório.
-
-### 4. Prever
-
--   Use o modelo treinado para fazer previsões de estoque.
--   Exporte os resultados e analise as previsões geradas.
--   Documente suas conclusões e qualquer insight obtido a partir das previsões.
-
-## 🤔 Dúvidas?
-
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+Agradecimentos
+Obrigado por dar uma olhada no meu projeto! Se você gostou, não se esqueça de dar uma estrela ⭐️ e acompanhar para mais atualizações. 😄
