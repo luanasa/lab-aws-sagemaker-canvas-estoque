@@ -17,4 +17,4 @@ Oi pessoal! Bem-vindos ao meu projeto de previsão de estoque usando Machine Lea
 - Variedade de Dados: Adicionar mais variáveis e informações adicionais poderia enriquecer o modelo e proporcionar previsões mais precisas.
 
 Agradecimentos
-Obrigado por dar uma olhada no meu projeto! Se você gostou, não se esqueça de dar uma estrela ⭐️ e acompanhar para mais atualizações. 😄
+Obrigada por dar uma olhada no meu projeto! Se você gostou, não se esqueça de dar uma estrela ⭐️ e acompanhar para mais atualizações. 😄
