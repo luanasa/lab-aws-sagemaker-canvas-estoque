@@ -1,0 +1,201 @@
+ID_PRODUTO,NOME_PRODUTO,AUTOR,GENERO,ANO_PUBLICACAO,ESTOQUE_ATUAL,VENDAS_MES_ANTERIOR,PRECO_UNITARIO,ESTOQUE_PREVISTO,DATA_PREVISAO
+1,1984,George Orwell,Ficcao Distopica,1949,50,20,25.00,45,2024-09-01
+2,O Senhor dos Aneis,J.R.R. Tolkien,Fantasia,1954,30,15,40.00,28,2024-09-01
+3,Orgulho e Preconceito,Jane Austen,Romance,1813,40,10,18.00,35,2024-09-01
+4,Dom Quixote,Miguel de Cervantes,Classico,1605,60,25,22.00,55,2024-09-01
+5,Harry Potter e a Pedra Filosofal,J.K. Rowling,Fantasia,1997,70,30,35.00,65,2024-09-01
+6,Moby Dick,Herman Melville,Aventura,1851,20,5,30.00,18,2024-09-01
+7,Crime e Castigo,Fiodor Dostoievski,Classico,1866,50,12,28.00,48,2024-09-01
+8,Jane Eyre,Charlotte Bronte,Romance,1847,35,8,20.00,30,2024-09-01
+9,O Grande Gatsby,F. Scott Fitzgerald,Classico,1925,45,18,25.00,42,2024-09-01
+10,A Revolucao dos Bichos,George Orwell,Fabula Politica,1945,25,10,22.00,20,2024-09-01
+11,A Odisseia,Homero,Epopeia,8,15,7,30.00,12,2024-09-01
+12,Os Miseraveis,Victor Hugo,Drama,1862,20,9,27.00,18,2024-09-01
+13,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,30,11,29.00,28,2024-09-01
+14,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,40,14,33.00,38,2024-09-01
+15,O Apanhador no Campo de Centeio,J.D. Salinger,Ficcao,1951,25,6,24.00,22,2024-09-01
+16,Anna Karenina,Lev Tolstoi,Romance,1877,35,13,28.00,30,2024-09-01
+17,Guerra e Paz,Lev Tolstoi,Classico,1869,55,18,32.00,50,2024-09-01
+18,Dracula,Bram Stoker,Terror,1897,20,5,26.00,18,2024-09-01
+19,O Sol e Para Todos,Harper Lee,Drama,1960,25,7,23.00,22,2024-09-01
+20,Frankenstein,Mary Shelley,Terror,1818,30,10,27.00,28,2024-09-01
+21,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,15,4,22.00,12,2024-09-01
+22,As Aventuras de Huckleberry Finn,Mark Twain,Aventura,1884,40,16,25.00,38,2024-09-01
+23,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,45,20,29.00,42,2024-09-01
+24,Os Tres Mosqueteiros,Alexandre Dumas,Aventura,1844,30,12,32.00,28,2024-09-01
+25,Senhora,Jose de Alencar,Romance,1875,20,8,19.00,18,2024-09-01
+26,Macbeth,William Shakespeare,Tragedia,1606,25,7,21.00,22,2024-09-01
+27,O Morro dos Ventos Uivantes,Emily Bronte,Romance,1847,35,10,23.00,30,2024-09-01
+28,Os Maias,Eca de Queiros,Classico,1888,40,15,26.00,38,2024-09-01
+29,O Estrangeiro,Albert Camus,Filosofico,1942,20,5,30.00,18,2024-09-01
+30,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,25,9,22.00,23,2024-09-01
+31,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,15,4,18.00,12,2024-09-01
+32,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,40,14,25.00,37,2024-09-01
+33,O Nome da Rosa,Umberto Eco,Misterio,1980,30,12,28.00,28,2024-09-01
+34,O Senhor das Moscas,William Golding,Ficcao,1954,35,10,24.00,32,2024-09-01
+35,Ulisses,James Joyce,Classico,1922,20,6,30.00,18,2024-09-01
+36,Uma Confraria de Tolos,John Kennedy Toole,Comedia,1980,15,5,22.00,12,2024-09-01
+37,Em Busca do Tempo Perdido,Marcel Proust,Classico,1913,30,10,27.00,28,2024-09-01
+38,Admiravel Mundo Novo,Aldous Huxley,Ficcao Distopica,1932,25,7,25.00,22,2024-09-01
+39,A Sangue Frio,Truman Capote,Crime,1966,40,12,28.00,37,2024-09-01
+40,Triste Fim de Policarpo Quaresma,Lima Barreto,Classico,1915,35,11,26.00,32,2024-09-01
+41,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,30,10,29.00,28,2024-09-01
+42,1984,George Orwell,Ficcao Distopica,1949,45,18,25.00,42,2024-09-01
+43,Grande Sertao: Veredas,Joao Guimaraes Rosa,Classico,1956,50,20,30.00,48,2024-09-01
+44,Dom Casmurro,Machado de Assis,Classico,1899,35,14,28.00,32,2024-09-01
+45,O Vermelho e o Negro,Stendhal,Romance,1830,40,12,25.00,37,2024-09-01
+46,O Amante de Lady Chatterley,D.H. Lawrence,Romance,1928,20,6,27.00,18,2024-09-01
+47,Os Irmaos Corsos,Alexandre Dumas,Aventura,1844,25,8,32.00,22,2024-09-01
+48,Crime e Castigo,Fiodor Dostoievski,Classico,1866,50,15,30.00,45,2024-09-01
+49,O Processo,Franz Kafka,Ficcao,1925,30,9,28.00,28,2024-09-01
+50,O Grande Gatsby,F. Scott Fitzgerald,Classico,1925,35,12,25.00,32,2024-09-01
+51,Dracula,Bram Stoker,Terror,1897,40,14,26.00,37,2024-09-01
+52,O Sol e Para Todos,Harper Lee,Drama,1960,30,10,23.00,28,2024-09-01
+53,Frankenstein,Mary Shelley,Terror,1818,25,8,27.00,22,2024-09-01
+54,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,15,5,22.00,12,2024-09-01
+55,As Aventuras de Huckleberry Finn,Mark Twain,Aventura,1884,40,15,25.00,37,2024-09-01
+56,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,35,12,29.00,32,2024-09-01
+57,Os Tres Mosqueteiros,Alexandre Dumas,Aventura,1844,20,7,32.00,18,2024-09-01
+58,Senhora,Jose de Alencar,Romance,1875,25,8,19.00,22,2024-09-01
+59,Macbeth,William Shakespeare,Tragedia,1606,30,10,21.00,28,2024-09-01
+60,O Morro dos Ventos Uivantes,Emily Bronte,Romance,1847,35,12,23.00,30,2024-09-01
+61,Os Maias,Eca de Queiros,Classico,1888,40,14,26.00,37,2024-09-01
+62,O Estrangeiro,Albert Camus,Filosofico,1942,25,8,30.00,22,2024-09-01
+63,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,30,12,22.00,28,2024-09-01
+64,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,15,4,18.00,12,2024-09-01
+65,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,35,10,25.00,32,2024-09-01
+66,O Nome da Rosa,Umberto Eco,Misterio,1980,25,9,28.00,22,2024-09-01
+67,O Senhor das Moscas,William Golding,Ficcao,1954,30,10,24.00,27,2024-09-01
+68,Ulisses,James Joyce,Classico,1922,20,6,30.00,18,2024-09-01
+69,Uma Confraria de Tolos,John Kennedy Toole,Comedia,1980,15,5,22.00,12,2024-09-01
+70,Em Busca do Tempo Perdido,Marcel Proust,Classico,1913,30,10,27.00,28,2024-09-01
+71,Admiravel Mundo Novo,Aldous Huxley,Ficcao Distopica,1932,25,7,25.00,22,2024-09-01
+72,A Sangue Frio,Truman Capote,Crime,1966,35,12,28.00,32,2024-09-01
+73,Triste Fim de Policarpo Quaresma,Lima Barreto,Classico,1915,40,15,26.00,37,2024-09-01
+74,As Mil e Uma Noites,Anonimo,Folclore,1706,20,5,22.00,18,2024-09-01
+75,Madame Bovary,Gustave Flaubert,Romance,1857,30,12,26.00,28,2024-09-01
+76,O Primo Basilio,Jose de Alencar,Romance,1878,15,6,19.00,12,2024-09-01
+77,A Menina que Roubava Livros,Markus Zusak,Drama,2005,35,14,23.00,32,2024-09-01
+78,De Profundis,Oscar Wilde,Correspondencia,1905,20,5,18.00,18,2024-09-01
+79,O Corcunda de Notre-Dame,Victor Hugo,Romance,1831,25,7,22.00,22,2024-09-01
+80,Mariana,Monica de Biasi,Romance,1998,30,10,24.00,28,2024-09-01
+81,O Guia do Mochileiro das Galaxias,Douglas Adams,Ficcao Cientifica,1979,45,20,29.00,42,2024-09-01
+82,O Hobbit,J.R.R. Tolkien,Fantasia,1937,50,22,32.00,48,2024-09-01
+83,Dracula,Bram Stoker,Terror,1897,35,12,26.00,32,2024-09-01
+84,Dom Casmurro,Machado de Assis,Classico,1899,20,5,28.00,18,2024-09-01
+85,O Senhor das Moscas,William Golding,Ficcao,1954,25,8,24.00,22,2024-09-01
+86,Orgulho e Preconceito,Jane Austen,Romance,1813,30,10,22.00,28,2024-09-01
+87,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,35,12,30.00,32,2024-09-01
+88,Crime e Castigo,Fiodor Dostoievski,Classico,1866,40,15,27.00,37,2024-09-01
+89,O Morro dos Ventos Uivantes,Emily Bronte,Romance,1847,45,18,25.00,42,2024-09-01
+90,Os Maias,Eca de Queiros,Classico,1888,50,20,26.00,48,2024-09-01
+91,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,30,10,28.00,28,2024-09-01
+92,Uma Confraria de Tolos,John Kennedy Toole,Comedia,1980,25,9,22.00,22,2024-09-01
+93,Dracula,Bram Stoker,Terror,1897,35,12,26.00,32,2024-09-01
+94,1984,George Orwell,Ficcao Distopica,1949,40,15,30.00,37,2024-09-01
+95,Admiravel Mundo Novo,Aldous Huxley,Ficcao Distopica,1932,30,12,27.00,28,2024-09-01
+96,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,25,7,29.00,22,2024-09-01
+97,Senhora,Jose de Alencar,Romance,1875,20,6,19.00,18,2024-09-01
+98,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,15,5,22.00,12,2024-09-01
+99,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,30,11,29.00,28,2024-09-01
+100,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,35,12,30.00,32,2024-09-01
+101,Dom Quixote,Miguel de Cervantes,Classico,1605,45,18,22.00,42,2024-09-01
+102,A Odisseia,Homero,Epopeia,8,25,10,30.00,22,2024-09-01
+103,Os Miseraveis,Victor Hugo,Drama,1862,30,12,27.00,28,2024-09-01
+104,O Apanhador no Campo de Centeio,J.D. Salinger,Ficcao,1951,20,8,24.00,18,2024-09-01
+105,A Menina que Roubava Livros,Markus Zusak,Drama,2005,35,14,23.00,32,2024-09-01
+106,A Odisseia,Homero,Epopeia,8,15,5,30.00,12,2024-09-01
+107,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,30,14,33.00,28,2024-09-01
+108,O Hobbit,J.R.R. Tolkien,Fantasia,1937,20,6,32.00,18,2024-09-01
+109,Dom Casmurro,Machado de Assis,Classico,1899,25,9,28.00,22,2024-09-01
+110,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,35,12,25.00,32,2024-09-01
+111,Dracula,Bram Stoker,Terror,1897,40,15,26.00,37,2024-09-01
+112,Uma Confraria de Tolos,John Kennedy Toole,Comedia,1980,15,7,22.00,12,2024-09-01
+113,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,30,14,22.00,28,2024-09-01
+114,Senhora,Jose de Alencar,Romance,1875,25,9,19.00,22,2024-09-01
+115,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,35,10,22.00,32,2024-09-01
+116,Os Maias,Eca de Queiros,Classico,1888,40,14,26.00,37,2024-09-01
+117,O Senhor das Moscas,William Golding,Ficcao,1954,20,6,24.00,18,2024-09-01
+118,1984,George Orwell,Ficcao Distopica,1949,25,8,30.00,22,2024-09-01
+119,A Revolucao dos Bichos,George Orwell,Fabula Politica,1945,35,12,22.00,32,2024-09-01
+120,Orgulho e Preconceito,Jane Austen,Romance,1813,45,20,18.00,42,2024-09-01
+121,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,20,6,18.00,18,2024-09-01
+122,As Aventuras de Huckleberry Finn,Mark Twain,Aventura,1884,30,11,25.00,28,2024-09-01
+123,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,20,7,33.00,18,2024-09-01
+124,O Nome da Rosa,Umberto Eco,Misterio,1980,35,13,28.00,32,2024-09-01
+125,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,30,12,29.00,28,2024-09-01
+126,1984,George Orwell,Ficcao Distopica,1949,25,5,30.00,22,2024-09-01
+127,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,30,14,29.00,28,2024-09-01
+128,Dom Casmurro,Machado de Assis,Classico,1899,35,11,28.00,32,2024-09-01
+129,O Hobbit,J.R.R. Tolkien,Fantasia,1937,20,7,32.00,18,2024-09-01
+130,Senhora,Jose de Alencar,Romance,1875,25,10,19.00,22,2024-09-01
+131,O Grande Gatsby,F. Scott Fitzgerald,Classico,1925,30,12,25.00,28,2024-09-01
+132,O Sol e Para Todos,Harper Lee,Drama,1960,35,15,23.00,32,2024-09-01
+133,Orgulho e Preconceito,Jane Austen,Romance,1813,40,16,22.00,37,2024-09-01
+134,Dom Quixote,Miguel de Cervantes,Classico,1605,45,20,22.00,42,2024-09-01
+135,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,50,25,29.00,48,2024-09-01
+136,O Senhor das Moscas,William Golding,Ficcao,1954,25,10,24.00,22,2024-09-01
+137,O Hobbit,J.R.R. Tolkien,Fantasia,1937,35,12,32.00,30,2024-09-01
+138,O Morro dos Ventos Uivantes,Emily Bronte,Romance,1847,20,7,23.00,18,2024-09-01
+139,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,15,6,18.00,12,2024-09-01
+140,As Aventuras de Huckleberry Finn,Mark Twain,Aventura,1884,30,10,25.00,28,2024-09-01
+141,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,45,15,29.00,42,2024-09-01
+142,Dracula,Bram Stoker,Terror,1897,50,20,26.00,48,2024-09-01
+143,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,35,12,25.00,32,2024-09-01
+144,Os Maias,Eca de Queiros,Classico,1888,25,8,26.00,22,2024-09-01
+145,Dom Casmurro,Machado de Assis,Classico,1899,30,10,28.00,28,2024-09-01
+146,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,35,12,22.00,32,2024-09-01
+147,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,20,7,18.00,18,2024-09-01
+148,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,40,16,22.00,37,2024-09-01
+149,Orgulho e Preconceito,Jane Austen,Romance,1813,25,5,22.00,22,2024-09-01
+150,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,35,12,30.00,32,2024-09-01
+151,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,40,14,29.00,37,2024-09-01
+152,O Hobbit,J.R.R. Tolkien,Fantasia,1937,50,18,32.00,48,2024-09-01
+153,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,25,10,25.00,22,2024-09-01
+154,O Grande Gatsby,F. Scott Fitzgerald,Classico,1925,30,14,25.00,28,2024-09-01
+155,Os Maias,Eca de Queiros,Classico,1888,45,16,26.00,42,2024-09-01
+156,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,20,6,29.00,18,2024-09-01
+157,Dracula,Bram Stoker,Terror,1897,30,10,26.00,28,2024-09-01
+158,O Sol e Para Todos,Harper Lee,Drama,1960,25,8,23.00,22,2024-09-01
+159,Orgulho e Preconceito,Jane Austen,Romance,1813,35,14,22.00,32,2024-09-01
+160,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,40,16,29.00,37,2024-09-01
+161,Os Maias,Eca de Queiros,Classico,1888,25,7,26.00,22,2024-09-01
+162,Senhora,Jose de Alencar,Romance,1875,30,10,19.00,28,2024-09-01
+163,Dom Casmurro,Machado de Assis,Classico,1899,20,5,28.00,18,2024-09-01
+164,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,35,12,22.00,32,2024-09-01
+165,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,45,20,33.00,42,2024-09-01
+166,Os Maias,Eca de Queiros,Classico,1888,30,12,26.00,28,2024-09-01
+167,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,25,11,29.00,22,2024-09-01
+168,1984,George Orwell,Ficcao Distopica,1949,20,8,30.00,18,2024-09-01
+169,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,40,18,29.00,32,2024-09-01
+170,O Senhor das Moscas,William Golding,Ficcao,1954,25,10,24.00,22,2024-09-01
+171,Orgulho e Preconceito,Jane Austen,Romance,1813,15,6,22.00,14,2024-09-01
+172,Dom Quixote,Miguel de Cervantes,Classico,1605,35,14,22.00,30,2024-09-01
+173,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,20,7,22.00,18,2024-09-01
+174,Senhora,Jose de Alencar,Romance,1875,30,12,19.00,25,2024-09-01
+175,Dracula,Bram Stoker,Terror,1897,30,14,26.00,28,2024-09-01
+176,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Misterio,1892,25,10,22.00,22,2024-09-01
+177,Os Maias,Eca de Queiros,Classico,1888,35,15,26.00,32,2024-09-01
+178,O Hobbit,J.R.R. Tolkien,Fantasia,1937,20,8,32.00,18,2024-09-01
+179,A Menina que Roubava Livros,Markus Zusak,Drama,2005,15,6,23.00,14,2024-09-01
+180,Memorias Postumas de Bras Cubas,Machado de Assis,Classico,1881,45,20,25.00,35,2024-09-01
+181,Os Irmaos Karamazov,Fiodor Dostoievski,Classico,1880,30,12,29.00,28,2024-09-01
+182,Dom Casmurro,Machado de Assis,Classico,1899,25,8,28.00,22,2024-09-01
+183,As Cronicas de Narnia,C.S. Lewis,Fantasia,1956,20,7,33.00,18,2024-09-01
+184,O Retrato de Dorian Gray,Oscar Wilde,Ficcao,1890,30,12,29.00,25,2024-09-01
+185,O Senhor das Moscas,William Golding,Ficcao,1954,25,9,24.00,22,2024-09-01
+186,Senhora,Jose de Alencar,Romance,1875,30,13,19.00,25,2024-09-01
+187,Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,Romance,1774,25,8,18.00,22,2024-09-01
+188,Dracula,Bram Stoker,Terror,1897,30,11,26.00,28,2024-09-01
+189,As Aventuras de Huckleberry Finn,Mark Twain,Aventura,1884,35,12,25.00,30,2024-09-01
+190,Orgulho e Preconceito,Jane Austen,Romance,1813,30,14,22.00,28,2024-09-01
+191,O Grande Gatsby,F. Scott Fitzgerald,Classico,1925,25,9,25.00,22,2024-09-01
+192,Os Contos de Canterbury,Geoffrey Chaucer,Classico,1400,20,6,22.00,18,2024-09-01
+193,O Hobbit,J.R.R. Tolkien,Fantasia,1937,35,16,32.00,30,2024-09-01
+194,A Menina que Roubava Livros,Markus Zusak,Drama,2005,25,10,23.00,22,2024-09-01
+195,O Corcunda de Notre-Dame,Victor Hugo,Romance,1831,30,12,27.00,28,2024-09-01
+196,Triste Fim de Policarpo Quaresma,Lima Barreto,Classico,1915,20,7,24.00,18,2024-09-01
+197,Dom Casmurro,Machado de Assis,Classico,1899,35,15,28.00,30,2024-09-01
+198,O Apanhador no Campo de Centeio,J.D. Salinger,Ficcao,1951,15,6,23.00,14,2024-09-01
+199,A Revolucao dos Bichos,George Orwell,Fabula Politica,1945,20,8,30.00,18,2024-09-01
+200,Em Busca do Tempo Perdido,Marcel Proust,Classico,1913,45,20,32.00,35,2024-09-01
